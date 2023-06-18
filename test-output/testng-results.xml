@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-18T19:28:31 IST" name="Default suite" finished-at="2023-06-18T19:29:07 IST" duration-ms="36434">
+    <groups>
+    </groups>
+    <test started-at="2023-06-18T19:28:31 IST" name="Default test" finished-at="2023-06-18T19:29:07 IST" duration-ms="36434">
+      <class name="UITesting.TestUI5">
+        <test-method signature="test()[pri:0, instance:UITesting.TestUI5@31d7b7bf]" started-at="2023-06-18T19:28:31 IST" name="test" finished-at="2023-06-18T19:29:07 IST" duration-ms="36409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- UITesting.TestUI5 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
